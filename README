@@ -1,0 +1,31 @@
+KATOPODIS PANAGIOTIS ARISTOMENIS
+AM:1115201400068	
+
+
+Files created or Modified:
+	
+periexei arxeia apo to deutero project .
+nea einai ta: 
+1)LlvmVisitor.java 
+2)VtableFunctions.java
+3)execute.sh
+
+iparxei enas fakelos testCases pou periexei ta basika testcases.
+kai ta minijava-extra
+
+kanei compile me thn entolh :  make.
+
+trexei me thn entolh : java Main <filename>.
+h me thh entolh : sh execute.sh (gia na treksei ola ta arxeia apo to testCases).
+
+molis treksei dimourgei ena fakelo offsets pou periexei mesa 
+ta offsets tou filename.
+kai ena fakelo LLVMfiles pou periexei ta arxeia .ll 
+kai ta filename.out1 ean trexthei me thn entolh execute.
+
+dokimastike me ta 31 arxeia pou iparxoun sto fakelo testCases.
+
+** apo ta zitoumena tou project den dexetai polla arxeia **
+** OMOS iparxei ena arxeio execute.sh pou ektelei ola ta arxeia sto 
+testCases kanei thn entolh clang kai telos kanei execute ta .ll arxeia
+apo ta testCases pou dothikan sin ta minijava-extra **
