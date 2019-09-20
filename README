@@ -25,7 +25,6 @@ kai ta filename.out1 ean trexthei me thn entolh execute.
 
 dokimastike me ta 31 arxeia pou iparxoun sto fakelo testCases.
 
-** apo ta zitoumena tou project den dexetai polla arxeia **
-** OMOS iparxei ena arxeio execute.sh pou ektelei ola ta arxeia sto 
+** iparxei ena arxeio execute.sh pou ektelei ola ta arxeia sto 
 testCases kanei thn entolh clang kai telos kanei execute ta .ll arxeia
 apo ta testCases pou dothikan sin ta minijava-extra **
